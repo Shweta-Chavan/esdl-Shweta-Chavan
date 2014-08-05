@@ -1,5 +1,6 @@
 #include<iostream>
-using namespace std;void main()
+using namespace std;
+void main()
 {
  cout<<"hello"<<"\n";
  return 0;
@@ -14,5 +15,5 @@ void add()
  cin>>b;
  c=a+b;
  cout<<"the answer:";
- cout<<c;
+ 
 }
